@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Welcome to my github profile 👋
+### 🔭 I’m currently working on home
+### And 🌱 I’m currently learning Spring Boot
+### Here you can find some info about my github projects 👇
+[![ALIILAPRO](https://github-readme-stats.vercel.app/api?username=ShafiqSadat&show_icons=true&theme=highcontrast)](https://Shafiq.tech)
 <!--
 **ShafiqSadat/ShafiqSadat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
