@@ -3,7 +3,7 @@
  
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+Shafiq+Sadat;a+passionate+programmer+who+loves+solving+problems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&random=true&width=1300&height=200&lines=Welcome+to+my+GitHub+profile!;I%27m+Shafiq+Sadat;a+passionate+programmer+who+loves+solving+problems)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=shafiqsadat&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)](https://github.com/ShafiqSadat)
 
