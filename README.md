@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqsadat&layout=donut&theme=dark)](https://github.com/ShafiqSadat)
-
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShafiqSadat&theme=github_dark)](https://github.com/ShafiqSadat)
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqsadat&layout=donut&theme=dark" alt="Top Languages" style="width: 50%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShafiqSadat&theme=github_dark" alt="Profile Details" style="width: 50%;">
+</div>
