@@ -3,16 +3,7 @@
  
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<div style="margin-top: 20px;">
-    <p align="center">
-        <a href="https://git.io/typing-svg">
-            <img
-                src="https://readme-typing-svg.herokuapp.com/?size=35&color=FFFFFF&width=1000&lines=Hello+And+Welcome+To+My+Github+Profile!;My+Name+is+Shafiq+Sadat"
-                alt="Typing SVG"
-            />
-        </a>
-    </p>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&random=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+Shafiq+Sadat;a+passionate+programmer+who+loves+solving+problems.)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=shafiqsadat&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)](https://github.com/ShafiqSadat)
 
