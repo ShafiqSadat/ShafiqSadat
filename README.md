@@ -2,7 +2,7 @@
  <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-![Github](https://img.shields.io/github/followers/ShafiqSadat?label=Follow&style=social)
+
 <div style="margin-top: 20px;">
     <p align="center">
         <a href="https://git.io/typing-svg">
@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=shafiqsadat&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)](https://github.com/ShafiqSadat)
 
 
-
+![Github](https://img.shields.io/github/followers/ShafiqSadat?label=Follow&style=social)
 <!--
 **ShafiqSadat/ShafiqSadat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
