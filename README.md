@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShafiqSadat&theme=github_dark)](https://github.com/ShafiqSadat)
 
-#Follow me 👇
+**Follow me**  👉 
 ![Github](https://img.shields.io/github/followers/ShafiqSadat?label=Follow&style=social)
