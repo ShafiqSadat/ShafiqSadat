@@ -16,8 +16,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=shafiqsadat&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)](https://github.com/ShafiqSadat)
 
-
-![Github](https://img.shields.io/github/followers/ShafiqSadat?label=Follow&style=social)
 <!--
 **ShafiqSadat/ShafiqSadat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,3 +34,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiqsadat&layout=donut&theme=dark)](https://github.com/ShafiqSadat)
 
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShafiqSadat&theme=github_dark)](https://github.com/ShafiqSadat)
+
+#Follow me 👇
+![Github](https://img.shields.io/github/followers/ShafiqSadat?label=Follow&style=social)
