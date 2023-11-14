@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=shafiqsadat&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)](https://github.com/ShafiqSadat)
 
-![Github](https://img.shields.io/github/followers/yasinnorozzadeh?label=Follow&style=social)
+![Github](https://img.shields.io/github/followers/ShafiqSadat?label=Follow&style=social)
 
 <!--
 **ShafiqSadat/ShafiqSadat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
