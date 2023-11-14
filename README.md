@@ -1,4 +1,13 @@
-### Welcome to my github profile 👋
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=40&color=FF0000&width=1000&lines=Welcome+To+My+Github"
+            alt="Typing SVG"
+        />
+    </a>
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=shafiqsadat&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)](https://github.com/ShafiqSadat)
 <!--
 **ShafiqSadat/ShafiqSadat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
