@@ -1,8 +1,8 @@
  <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-![Github](https://img.shields.io/github/followers/ShafiqSadat?label=Follow&style=social)
+ 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
+![Github](https://img.shields.io/github/followers/ShafiqSadat?label=Follow&style=social)
 <div style="margin-top: 20px;">
     <p align="center">
         <a href="https://git.io/typing-svg">
