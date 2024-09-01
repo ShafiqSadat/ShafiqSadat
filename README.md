@@ -4,7 +4,7 @@
  <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<p align="left" background-color: black> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShafiqSadat" alt="ShafiqSadat" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShafiqSadat&theme=onedark)](https://github.com/ShafiqSadat)
  
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
