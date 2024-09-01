@@ -3,6 +3,8 @@
 
  <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+<p align="left" background-color: black> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShafiqSadat" alt="ShafiqSadat" /></a> </p>
  
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
@@ -31,3 +33,5 @@ Here are some ideas to get you started:
 
 **Follow me**  👉 
 [![Github](https://img.shields.io/github/followers/ShafiqSadat?label=Follow&style=social)](https://github.com/ShafiqSadat)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShafiqSadat&label=Profile%20views&color=0e75b6&style=flat" alt="ShafiqSadat" /> </p>
